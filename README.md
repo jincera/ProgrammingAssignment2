@@ -10,7 +10,7 @@ As of now, the code is not safe in the sense that it does not validate any input
 This code shows how are the functions invoked:
 
 <!-- -->
-
+```
 > x <- matrix(c(1, 3, 2, 4), 2, 2)
 > x
         [,1] [,2]
@@ -29,6 +29,6 @@ This code shows how are the functions invoked:
 >x2<-cacheSolve(x1)
 getting cached data
 >
-
+```
 
 
